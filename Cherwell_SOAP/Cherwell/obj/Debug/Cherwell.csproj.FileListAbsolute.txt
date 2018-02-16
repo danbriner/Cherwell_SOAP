@@ -1,0 +1,4 @@
+c:\users\dan\documents\visual studio 2010\Projects\Cherwell\Cherwell\bin\Cherwell.dll
+c:\users\dan\documents\visual studio 2010\Projects\Cherwell\Cherwell\bin\Cherwell.pdb
+c:\users\dan\documents\visual studio 2010\Projects\Cherwell\Cherwell\obj\Debug\Cherwell.dll
+c:\users\dan\documents\visual studio 2010\Projects\Cherwell\Cherwell\obj\Debug\Cherwell.pdb
